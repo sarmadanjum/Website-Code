@@ -1,0 +1,1942 @@
+
+   <!DOCTYPE html>
+ <html lang="en-US">
+
+   <head>
+       <meta charset="UTF-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+       <link href="https://fonts.googleapis.com/css?family=Roboto%3A%2C400%2C700%2C900%7CPoppins%3A%2C400%2C700%2C900" rel="stylesheet">
+	<!-- This site is optimized with the Yoast SEO plugin v14.3 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>iQuote Solutions - For Your Business &amp; Customers</title>
+	<meta name="description" content="Your Customers can get instant quote. Using our software, you can update anything according to your requirment. Save Time &amp; Money &amp; Increase Your Business." />
+	<meta name="robots" content="index, follow" />
+	<meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://iquote.solutions/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="facebook.com/iquote.solutions" />
+	<meta property="og:description" content="Your Customers can get instant quote. Using our software, you can update anything according to your requirment. Save Time &amp; Money &amp; Increase Your Business." />
+	<meta property="og:url" content="https://iquote.solutions/" />
+	<meta property="og:site_name" content="iQuote Solutions" />
+	<meta property="article:modified_time" content="2020-04-26T08:38:17+00:00" />
+	<meta property="og:image" content="https://iquote.solutions/wp-content/uploads/2019/11/dot_shape.png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://iquote.solutions/#organization","name":"iQuote.Solutions","url":"https://iquote.solutions/","sameAs":[],"logo":{"@type":"ImageObject","@id":"https://iquote.solutions/#logo","inLanguage":"en-US","url":"https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?fit=1695%2C808&ssl=1","width":1695,"height":808,"caption":"iQuote.Solutions"},"image":{"@id":"https://iquote.solutions/#logo"}},{"@type":"WebSite","@id":"https://iquote.solutions/#website","url":"https://iquote.solutions/","name":"iQuote Solutions","description":"Instant QuoteWare | Powered By IT&#039;s Brain","publisher":{"@id":"https://iquote.solutions/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://iquote.solutions/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://iquote.solutions/#primaryimage","inLanguage":"en-US","url":"https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/dot_shape.png?fit=184%2C184&ssl=1","width":184,"height":184},{"@type":"WebPage","@id":"https://iquote.solutions/#webpage","url":"https://iquote.solutions/","name":"iQuote Solutions - For Your Business & Customers","isPartOf":{"@id":"https://iquote.solutions/#website"},"about":{"@id":"https://iquote.solutions/#organization"},"primaryImageOfPage":{"@id":"https://iquote.solutions/#primaryimage"},"datePublished":"2019-11-19T12:09:45+00:00","dateModified":"2020-04-26T08:38:17+00:00","description":"Your Customers can get instant quote. Using our software, you can update anything according to your requirment. Save Time & Money & Increase Your Business.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://iquote.solutions/"]}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="iQuote Solutions &raquo; Feed" href="https://iquote.solutions/feed/" />
+<link rel="alternate" type="application/rss+xml" title="iQuote Solutions &raquo; Comments Feed" href="https://iquote.solutions/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/iquote.solutions\/wp-includes\/js\/wp-emoji-release.min.js"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='ekit-mini-cart-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/widgets/woo-mini-cart/assets/css/ekit-mini-cart.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://c0.wp.com/c/5.4.2/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='https://c0.wp.com/c/5.4.2/wp-includes/css/admin-bar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-common-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/css/common.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.4.2/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='wp-block-library-theme-css'  href='https://c0.wp.com/c/5.4.2/wp-includes/css/dist/block-library/theme.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xs-front-style-css'  href='https://iquote.solutions/wp-content/plugins/wp-social/assets/css/front-style/xs-front-style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='xs_login_font_login_css-css'  href='https://iquote.solutions/wp-content/plugins/wp-social/assets/css/xs_login_font_login_css.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-ui-css'  href='https://iquote.solutions/wp-content/plugins/metform/public/assets/css/metform-ui.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-style-css'  href='https://iquote.solutions/wp-content/plugins/metform/public/assets/css/metform-style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/animations/animations.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='powerpack-frontend-css'  href='https://iquote.solutions/wp-content/plugins/powerpack-lite-for-elementor/assets/css/powerpack-frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://iquote.solutions/wp-content/plugins/elementor-pro/assets/css/frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='metform-css-formpicker-control-editor-css'  href='https://iquote.solutions/wp-content/plugins/metform/controls/assets/css/metform-css-formpicker-control-editor.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-css-widgetarea-control-editor-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/modules/controls/assets/css/elementskit-css-widgetarea-control-editor.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://iquote.solutions/wp-content/uploads/elementor/css/global.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5809-css'  href='https://iquote.solutions/wp-content/uploads/elementor/css/post-5809.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-6809-css'  href='https://iquote.solutions/wp-content/uploads/elementor/css/post-6809.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-framework-css-frontend-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/libs/framework/assets/css/elementskit-framework-css-frontend.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-parallax-style-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/modules/parallax/assets/css/elementskit-parallax-style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='yoast-seo-adminbar-css'  href='https://iquote.solutions/wp-content/plugins/wordpress-seo/css/dist/yoast-seo-adminbar.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='fonts-css'  href='https://fonts.googleapis.com/css?family=Poppins%3A300%2C400%2C500%2C600%2C700%26display%3Dswap%7CRoboto%3A300%2C400%2C500%2C700&#038;ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://iquote.solutions/wp-content/themes/sassico/assets/css/bootstrap.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sassico-iconfont-css'  href='https://iquote.solutions/wp-content/themes/sassico/assets/css/sassico-iconfont.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sassico-blog-css'  href='https://iquote.solutions/wp-content/themes/sassico/assets/css/sassico-blog.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sassico-gutenberg-custom-css'  href='https://iquote.solutions/wp-content/themes/sassico/assets/css/sassico-gutenberg-custom.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sassicon-woocommerce-css'  href='https://iquote.solutions/wp-content/themes/sassico/assets/css/sassicon-woocommerce.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='sassico-master-css'  href='https://iquote.solutions/wp-content/themes/sassico/assets/css/sassico-master.min.css' type='text/css' media='all' />
+<style id='sassico-master-inline-css' type='text/css'>
+
+        body{ font-family:"Roboto";line-height:26px;font-size:16px;font-weight:400; }
+
+        h1{
+            font-family:"Poppins";font-size:72px;font-weight:700;
+        }
+        h2{
+            font-family:"Poppins";font-size:60px;font-weight:700;
+        }
+        h3{ 
+            font-family:"Poppins";font-size:48px;font-weight:700; 
+        }
+        h4{ 
+            font-family:"Poppins";font-size:36px;font-weight:700;
+        }
+        h5{ 
+            font-family:"Poppins";font-size:30px;font-weight:700;
+        }
+        h6{ 
+            font-family:"Poppins";font-size:24px;font-weight:700;
+        }
+        .entry-header .entry-title a:hover, 
+        .sidebar ul li a:hover{
+            color: #1563af;
+            transition: all ease 500ms;
+        }
+        .header ul.navbar-nav > li > a:hover,
+         .header ul.navbar-nav > li > a.active,
+         .header ul.navbar-nav > li > a:focus{
+            color: #1563af;
+        }
+
+         .entry-header .entry-title a,
+         h1,h2,h3,h4,h5,h6,
+         .post .entry-header .entry-title a{
+            color: #1a1a1a;
+            
+        }
+        
+        ul.navbar-nav li .dropdown-menu li a:hover,
+        .xs-service .xs-service-box .xs-service-box-info .xs-title a:hover,
+        .recent-folio-menu ul li.active,
+        .xs-footer .footer-left-widget ul li span,
+        .xs-footer .footer-widget ul li a:hover,
+        .copyright span a,
+        .xs-latest-news .single-latest-news .single-news-content .ts-post-title a:hover,
+        .xs-top-bar .top-bar .header-nav-right-info li i.fa,
+        .xs-nav-classic .header-nav-right-info li i,
+        .sidebar .widget .media-body .entry-title a:hover,
+        .header ul.navbar-nav li .dropdown-menu li a:hover,
+        .header ul.navbar-nav li .dropdown-menu li a.active,
+        .btn:hover,
+        .readmore-btn-area a,
+        .post .entry-header .entry-title a:hover,
+         .wp-block-quote:before
+        .woocommerce ul.products li.product .price,.woocommerce ul.products li.product .woocommerce-loop-product__title:hover,
+        .wp-block-quote:before{
+           color: #1563af;
+        }
+
+      
+        .btn-primary,
+        .recent-folio-menu ul li.active,
+        .copyright .footer-social ul li a:hover,
+        .testimonial-footer:after,
+        .btn-border-dark:hover, 
+        .ts-working-box:hover .working-icon-wrapper,
+        .header ul.navbar-nav > li:hover > a:before, .header ul.navbar-nav > li.active > a:before,
+        .blog-post-comment .comment-respond .comment-form .form-control:focus,
+        .qutoe-form-inner.ts-qoute-form .form-control:focus{
+           border-color: #1563af;
+        }
+        .recent-folio-menu ul li.active:after,
+        .ts-latest-news .single-latest-news{
+           border-bottom-color: #1563af;
+        }
+        .nav-classic .main-logo a:after{
+           border-top-color: #1563af;
+        }
+        .btn-primary:hover,
+        .post .post-footer .readmore:hover,
+        .input-group-btn.search-button:hover,
+        .sidebar .widget.widget_search .input-group-btn:hover,
+        .btn-comments.btn btn-primary,
+        .search .page .post-footer .readmore:hover, .post .post-footer .readmore:hover, .sidebar .widget.widget_search .input-group-append:hover{
+         background: #000000;
+         border-color: #000000;
+        }
+        blockquote.wp-block-quote, .wp-block-quote, .wp-block-quote:not(.is-large):not(.is-style-large), .wp-block-pullquote blockquote,
+         blockquote.wp-block-pullquote, .wp-block-quote.is-large, .wp-block-quote.is-style-large{
+            border-left-color: #1563af;
+        }
+         .entry-header .entry-title a:hover, .sidebar ul li a:hover{
+            color: #000000;
+         }
+         .single-intro-text .count-number, .sticky.post .meta-featured-post,
+        .sidebar .widget .widget-title:before, .pagination li.active a, .pagination li:hover a,
+        .pagination li.active a:hover, .pagination li:hover a:hover,
+        .sidebar .widget.widget_search .input-group-btn, .tag-lists a:hover, .tagcloud a:hover,
+        .back_to_top, .ticket-btn.btn:hover,
+        .navbar-container .navbar-light .navbar-nav > li > a:before,
+        .nav-button,
+        .btn-primary,
+        .single-recent-work .link-more,
+        .ts-team-slider .owl-nav .owl-prev:hover i, .ts-team-slider .owl-nav .owl-next:hover i,
+              .ts-footer-info-box,
+        .working-process-number,
+        .copyright .footer-social ul li a:hover,
+        .btn-border-dark:hover,
+        .nav-classic .main-logo a:before,
+        .btn,
+        .main-logo,
+        .hero-area.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover,
+        .post .post-footer .readmore,
+        .post .post-media .video-link-btn a,
+        .woocommerce ul.products li.product .button,.woocommerce ul.products li.product .added_to_cart, 
+        .woocommerce nav.woocommerce-pagination ul li a:focus, .woocommerce nav.woocommerce-pagination ul li a:hover, 
+        .woocommerce nav.woocommerce-pagination ul li span.current, .woocommerce #respond input#submit.alt, 
+        .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, 
+        .woocommerce ul.products li.product span.onsale, .woocommerce span.onsale,
+        .sidebar .widget.widget_search .input-group-append, 
+        .search-forms .input-group-append {
+            background: #1563af;
+        }
+        .post .post-footer .readmore,.sidebar .widget.widget_search .form-control:focus {
+            border-color: #1563af;
+        }
+        .owl-carousel.owl-loaded .owl-nav .owl-next.disabled, 
+        .owl-carousel.owl-loaded .owl-nav .owl-prev.disabled,
+        .xs-about-image-wrapper.owl-carousel.owl-theme .owl-nav [class*=owl-]:hover{
+            background: #1563af !important;
+
+        }
+
+        .banner-bg::after{
+            background: rgba(0, 0, 0, 0.4);
+        }
+        .woocommerce #respond input#submit.alt:hover, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover {
+            background-color: #000000;
+       }
+       .search .page .entry-header .entry-title a:hover, 
+       .post .entry-header .entry-title a:hover,
+       .meta-categories a:hover{
+           color: #1563af;
+       }
+        .ts-footer{
+            padding-top:100px;
+            padding-bottom:100px;
+         }
+      body{
+         background-color: #FFFFFF;
+         
+      }
+     
+      .xs-footer{
+          background-color: #142355;
+          background-repeat:no-repeat;
+          background-size: cover;
+          background:#f2f2f2
+          
+      }
+
+      .xs-footer-classic .widget-title,
+      .footer-widget .widget-title,
+      .xs-footer-classic h3,
+      .xs-footer-classic h4,
+      .xs-footer-classic .contact h3{
+          color: #142355;
+      }
+      .xs-footer-classic .widget-title,
+      .footer-widget .widget-title,
+      .xs-footer-classic h3,
+      .xs-footer-classic h4,
+      .xs-footer-classic .contact h3{
+          color: #142355;
+      }
+      .xs-footer-classic p,
+      .xs-footer-classic .list-arrow li a,
+      .xs-footer-classic .menu li a,
+      .xs-footer-classic .service-time li,
+      .xs-footer-classic .list-arrow li::before, 
+      .xs-footer-classic .menu li::before{
+        color: #666666;
+      }
+      
+      .xs-footer a{
+        color: #666666;
+      }
+     
+      .copy-right {
+         background: #142355;
+      }
+      .copy-right .copyright-text{
+         color: #a5a5a5;
+      }
+      
+</style>
+<link rel='stylesheet' id='elementskit-vendors-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/widgets/init/assets/css/elementskit-vendors.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-style-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/widgets/init/assets/css/elementskit-style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementskit-responsive-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/widgets/init/assets/css/elementskit-responsive.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CFira+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-1-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/modules/controls/assets/css/elementor-icons-shared-1.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css'  href='https://iquote.solutions/wp-content/plugins/elementskit/modules/controls/assets/css/elementor-icons-ekiticons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/8.6.1/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/jquery.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/xs_front_main_js.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/jarallax.min.js'></script>
+<link rel='https://api.w.org/' href='https://iquote.solutions/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://iquote.solutions/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://iquote.solutions/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<link rel='shortlink' href='https://iquote.solutions/' />
+<link rel="alternate" type="application/json+oembed" href="https://iquote.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fiquote.solutions%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://iquote.solutions/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fiquote.solutions%2F&#038;format=xml" />
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		
+<link rel='dns-prefetch' href='//c0.wp.com'/>
+<link rel='dns-prefetch' href='//i0.wp.com'/>
+<link rel='dns-prefetch' href='//i1.wp.com'/>
+<link rel='dns-prefetch' href='//i2.wp.com'/>
+
+			<script type="text/javascript">
+				var elementskit_module_parallax_url = "https://iquote.solutions/wp-content/plugins/elementskit/modules/parallax/"
+			</script>
+					<style type="text/css">
+				/* If html does not have either class, do not show lazy loaded images. */
+				html:not( .jetpack-lazy-images-js-enabled ):not( .js ) .jetpack-lazy-image {
+					display: none;
+				}
+			</style>
+			<script>
+				document.documentElement.classList.add(
+					'jetpack-lazy-images-js-enabled'
+				);
+			</script>
+		<style type="text/css" media="print">#wpadminbar { display:none; }</style>
+	<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+	<link rel="icon" href="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/cropped-iqlogo-04.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/cropped-iqlogo-04.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/cropped-iqlogo-04.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/cropped-iqlogo-04.png?fit=270%2C270&#038;ssl=1" />
+		<style type="text/css" id="wp-custom-css">
+			.sassico-working-step::before {
+	    background: linear-gradient(0deg, #fbfcfd 30%, rgba(0, 212, 255, 0) 70%);
+}
+.elementskit-dropdown li:first-child {
+    margin-top: 0px;
+}
+.elementskit-dropdown li:last-child {
+    margin-bottom: 0px;
+}
+
+.xs_vertical_menu .elementskit-navbar-nav .elementskit-dropdown .elementskit-dropdown li {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.cart_totals  h2{
+	font-size: 30px;
+	padding: 20px 0
+}
+#order_review_heading{
+	padding: 15px 0
+}
+
+img {
+    pointer-events: none;
+}		</style>
+		<script data-ampdevmode type="text/javascript">
+/* <![CDATA[ */
+	var wpNotesIsJetpackClient = true;
+	var wpNotesIsJetpackClientV2 = true;
+	var wpNotesLinkAccountsURL = 'https://iquote.solutions/wp-admin/admin.php?page=jetpack';
+/* ]]> */
+</script>
+   </head>
+
+<body class="home page-template page-template-template page-template-homepage-template page-template-templatehomepage-template-php page page-id-5809 logged-in admin-bar no-customize-support sidebar-active elementor-default elementor-kit-7050 elementor-page elementor-page-5809" >
+
+	<!--[if lte IE 8]>
+		<script type="text/javascript">
+			document.body.className = document.body.className.replace( /(^|\s)(no-)?customize-support(?=\s|$)/, '' ) + ' no-customize-support';
+		</script>
+	<![endif]-->
+	<!--[if gte IE 9]><!-->
+		<script type="text/javascript">
+			(function() {
+				var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+						request = true;
+		
+				b[c] = b[c].replace( rcs, ' ' );
+				// The customizer requires postMessage and CORS (if the site is cross domain).
+				b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+			}());
+		</script>
+	<!--<![endif]-->
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar">
+				<ul id='wp-admin-bar-root-default' class="ab-top-menu"><li id='wp-admin-bar-wp-logo' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://iquote.solutions/wp-admin/about.php'><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wp-logo-default' class="ab-submenu"><li id='wp-admin-bar-about'><a class='ab-item' href='https://iquote.solutions/wp-admin/about.php'>About WordPress</a></li></ul><ul id='wp-admin-bar-wp-logo-external' class="ab-sub-secondary ab-submenu"><li id='wp-admin-bar-wporg'><a class='ab-item' href='https://wordpress.org/'>WordPress.org</a></li><li id='wp-admin-bar-documentation'><a class='ab-item' href='https://codex.wordpress.org/'>Documentation</a></li><li id='wp-admin-bar-support-forums'><a class='ab-item' href='https://wordpress.org/support/'>Support</a></li><li id='wp-admin-bar-feedback'><a class='ab-item' href='https://wordpress.org/support/forum/requests-and-feedback'>Feedback</a></li></ul></div></li><li id='wp-admin-bar-site-name' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://iquote.solutions/wp-admin/'>iQuote Solutions</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-site-name-default' class="ab-submenu"><li id='wp-admin-bar-dashboard'><a class='ab-item' href='https://iquote.solutions/wp-admin/'>Dashboard</a></li></ul><ul id='wp-admin-bar-appearance' class="ab-submenu"><li id='wp-admin-bar-themes'><a class='ab-item' href='https://iquote.solutions/wp-admin/themes.php'>Themes</a></li><li id='wp-admin-bar-widgets'><a class='ab-item' href='https://iquote.solutions/wp-admin/widgets.php'>Widgets</a></li><li id='wp-admin-bar-menus'><a class='ab-item' href='https://iquote.solutions/wp-admin/nav-menus.php'>Menus</a></li></ul></div></li><li id='wp-admin-bar-customize' class="hide-if-no-customize"><a class='ab-item' href='https://iquote.solutions/wp-admin/customize.php?url=https%3A%2F%2Fiquote.solutions%2F'>Customize</a></li><li id='wp-admin-bar-updates'><a class='ab-item' href='https://iquote.solutions/wp-admin/update-core.php' title='10 Plugin Updates, 2 Theme Updates'><span class="ab-icon"></span><span class="ab-label">12</span><span class="screen-reader-text">10 Plugin Updates, 2 Theme Updates</span></a></li><li id='wp-admin-bar-comments'><a class='ab-item' href='https://iquote.solutions/wp-admin/edit-comments.php'><span class="ab-icon"></span><span class="ab-label awaiting-mod pending-count count-0" aria-hidden="true">0</span><span class="screen-reader-text comments-in-moderation-text">0 Comments in moderation</span></a></li><li id='wp-admin-bar-new-content' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://iquote.solutions/wp-admin/post-new.php'><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-new-content-default' class="ab-submenu"><li id='wp-admin-bar-new-post'><a class='ab-item' href='https://iquote.solutions/wp-admin/post-new.php'>Blog Post</a></li><li id='wp-admin-bar-new-media'><a class='ab-item' href='https://iquote.solutions/wp-admin/media-new.php'>Media</a></li><li id='wp-admin-bar-new-page'><a class='ab-item' href='https://iquote.solutions/wp-admin/post-new.php?post_type=page'>Page</a></li><li id='wp-admin-bar-new-elementor_library'><a class='ab-item' href='https://iquote.solutions/wp-admin/post-new.php?post_type=elementor_library'>Template</a></li><li id='wp-admin-bar-new-sassico-service'><a class='ab-item' href='https://iquote.solutions/wp-admin/post-new.php?post_type=sassico-service'>Service</a></li><li id='wp-admin-bar-new-user'><a class='ab-item' href='https://iquote.solutions/wp-admin/user-new.php'>User</a></li></ul></div></li><li id='wp-admin-bar-edit'><a class='ab-item' href='https://iquote.solutions/wp-admin/post.php?post=5809&#038;action=edit'>Edit Page</a></li><li id='wp-admin-bar-wpseo-menu' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://iquote.solutions/wp-admin/admin.php?page=wpseo_dashboard'><div id="yoast-ab-icon" class="ab-item yoast-logo svg"><span class="screen-reader-text">SEO</span></div><div class="wpseo-score-icon adminbar-seo-score ok"><span class="adminbar-seo-score-text screen-reader-text">SEO score: OK</span></div></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-menu-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-configuration-wizard'><a class='ab-item' href='https://iquote.solutions/wp-admin/admin.php?page=wpseo_configurator'>Configuration Wizard</a></li><li id='wp-admin-bar-wpseo-kwresearch' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Keyword Research</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-kwresearch-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-kwresearchtraining'><a class='ab-item' href='https://yoa.st/wp-admin-bar?php_version=7.3&#038;platform=wordpress&#038;platform_version=5.4.2&#038;software=free&#038;software_version=14.3&#038;days_active=30plus&#038;user_language=en_US' target='_blank'>Keyword research training</a></li><li id='wp-admin-bar-wpseo-adwordsexternal'><a class='ab-item' href='https://yoa.st/keywordplanner' target='_blank'>Google Ads</a></li><li id='wp-admin-bar-wpseo-googleinsights'><a class='ab-item' href='https://yoa.st/google-trends#q=iQuote+Solutions.+Instant+Quotation+For+Shop+Owners' target='_blank'>Google Trends</a></li></ul></div></li><li id='wp-admin-bar-wpseo-analysis' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>Analyze this page</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-analysis-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-inlinks'><a class='ab-item' href='https://search.google.com/search-console/links/drilldown?resource_id=https%3A%2F%2Fiquote.solutions&#038;type=EXTERNAL&#038;target=https%3A%2F%2Fiquote.solutions%2F&#038;domain=' target='_blank'>Check links to this URL</a></li><li id='wp-admin-bar-wpseo-kwdensity'><a class='ab-item' href='http://www.zippy.co.uk/keyworddensity/index.php?url=https%3A%2F%2Fiquote.solutions%2F&#038;keyword=iQuote+Solutions.+Instant+Quotation+For+Shop+Owners' target='_blank'>Check Keyphrase Density</a></li><li id='wp-admin-bar-wpseo-cache'><a class='ab-item' href='//webcache.googleusercontent.com/search?strip=1&#038;q=cache:https%3A%2F%2Fiquote.solutions%2F' target='_blank'>Check Google Cache</a></li><li id='wp-admin-bar-wpseo-structureddata'><a class='ab-item' href='https://search.google.com/structured-data/testing-tool#url=https%3A%2F%2Fiquote.solutions%2F' target='_blank'>Google Structured Data Test</a></li><li id='wp-admin-bar-wpseo-facebookdebug'><a class='ab-item' href='//developers.facebook.com/tools/debug/og/object?q=https%3A%2F%2Fiquote.solutions%2F' target='_blank'>Facebook Debugger</a></li><li id='wp-admin-bar-wpseo-pinterestvalidator'><a class='ab-item' href='https://developers.pinterest.com/tools/url-debugger/?link=https%3A%2F%2Fiquote.solutions%2F' target='_blank'>Pinterest Rich Pins Validator</a></li><li id='wp-admin-bar-wpseo-htmlvalidation'><a class='ab-item' href='//validator.w3.org/check?uri=https%3A%2F%2Fiquote.solutions%2F' target='_blank'>HTML Validator</a></li><li id='wp-admin-bar-wpseo-cssvalidation'><a class='ab-item' href='//jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fiquote.solutions%2F' target='_blank'>CSS Validator</a></li><li id='wp-admin-bar-wpseo-pagespeed'><a class='ab-item' href='//developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fiquote.solutions%2F' target='_blank'>Google Page Speed Test</a></li><li id='wp-admin-bar-wpseo-google-mobile-friendly'><a class='ab-item' href='https://www.google.com/webmasters/tools/mobile-friendly/?url=https%3A%2F%2Fiquote.solutions%2F' target='_blank'>Mobile-Friendly Test</a></li></ul></div></li><li id='wp-admin-bar-wpseo-settings' class="menupop"><div class="ab-item ab-empty-item" tabindex="0" aria-haspopup="true"><span class="wp-admin-bar-arrow" aria-hidden="true"></span>SEO Settings</div><div class="ab-sub-wrapper"><ul id='wp-admin-bar-wpseo-settings-default' class="ab-submenu"><li id='wp-admin-bar-wpseo-general'><a class='ab-item' href='https://iquote.solutions/wp-admin/admin.php?page=wpseo_dashboard'>General</a></li><li id='wp-admin-bar-wpseo-titles'><a class='ab-item' href='https://iquote.solutions/wp-admin/admin.php?page=wpseo_titles'>Search Appearance</a></li><li id='wp-admin-bar-wpseo-social'><a class='ab-item' href='https://iquote.solutions/wp-admin/admin.php?page=wpseo_social'>Social</a></li><li id='wp-admin-bar-wpseo-tools'><a class='ab-item' href='https://iquote.solutions/wp-admin/admin.php?page=wpseo_tools'>Tools</a></li><li id='wp-admin-bar-wpseo-licenses'><a class='ab-item' href='https://iquote.solutions/wp-admin/admin.php?page=wpseo_licenses'>Premium</a></li></ul></div></li></ul></div></li><li id='wp-admin-bar-elementor_edit_page' class="menupop"><a class='ab-item' aria-haspopup="true" href='https://iquote.solutions/wp-admin/post.php?post=5809&#038;action=elementor'>Edit with Elementor</a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-elementor_edit_page-default' class="ab-submenu"><li id='wp-admin-bar-elementor_edit_doc_6809'><a class='ab-item' href='https://iquote.solutions/wp-admin/post.php?post=6809&#038;action=elementor'><span class="elementor-edit-link-title">Popup Contact2</span><span class="elementor-edit-link-type">Popup</span></a></li></ul></div></li><li id='wp-admin-bar-SG_CachePress_Supercacher_Purge' class="sg-cachepress-admin-bar-purge"><a class='ab-item' href='https://iquote.solutions/wp-admin/admin-ajax.php?action=admin_bar_purge_cache&#038;_wpnonce=6c66af6e52'>Purge SG Cache</a></li></ul><ul id='wp-admin-bar-top-secondary' class="ab-top-secondary ab-top-menu"><li id='wp-admin-bar-search' class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="https://iquote.solutions/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div></li><li id='wp-admin-bar-my-account' class="menupop with-avatar"><a class='ab-item' aria-haspopup="true" href='https://iquote.solutions/wp-admin/profile.php'>Howdy, <span class="display-name">sarmad</span><img alt=''  data-srcset='https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=52&#038;d=wp_user_avatar&#038;r=g 2x'  height='26' width='26' data-src="https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=26&#038;d=wp_user_avatar&#038;r=g" class="avatar avatar-26 photo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img alt='' src='https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=26&#038;d=wp_user_avatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=52&#038;d=wp_user_avatar&#038;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></noscript></a><div class="ab-sub-wrapper"><ul id='wp-admin-bar-user-actions' class="ab-submenu"><li id='wp-admin-bar-user-info'><a class='ab-item' tabindex="-1" href='https://iquote.solutions/wp-admin/profile.php'><img alt=''  data-srcset='https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=128&#038;d=wp_user_avatar&#038;r=g 2x'  height='64' width='64' data-src="https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=64&#038;d=wp_user_avatar&#038;r=g" class="avatar avatar-64 photo lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img alt='' src='https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=64&#038;d=wp_user_avatar&#038;r=g' srcset='https://secure.gravatar.com/avatar/5f0713419eb44956bdabda6115f16503?s=128&#038;d=wp_user_avatar&#038;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /></noscript><span class='display-name'>sarmad</span></a></li><li id='wp-admin-bar-edit-profile'><a class='ab-item' href='https://iquote.solutions/wp-admin/profile.php'>Edit My Profile</a></li><li id='wp-admin-bar-logout'><a class='ab-item' href='https://iquote.solutions/wp-login.php?action=logout&#038;_wpnonce=24091ea4fc'>Log Out</a></li></ul></div></li><li id='wp-admin-bar-notes' class="menupop"><div class="ab-item ab-empty-item"><span id="wpnt-notes-unread-count" class="wpnt-loading wpn-read">
+					<span class="noticon noticon-notification"></span>
+					</span></div><div id="wpnt-notes-panel2" class="intrinsic-ignore" style="display:none" lang="en" dir="ltr"><div class="wpnt-notes-panel-header"><span class="wpnt-notes-header">Notifications</span><span class="wpnt-notes-panel-link"></span></div></div></li></ul>			</div>
+						<a class="screen-reader-shortcut" href="https://iquote.solutions/wp-login.php?action=logout&#038;_wpnonce=24091ea4fc">Log Out</a>
+					</div>
+
+				<div data-elementor-type="wp-post" data-elementor-id="5811" class="elementor elementor-5811" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-17f2895 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="17f2895" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-986386b elementor-column elementor-col-100 elementor-top-column" data-id="986386b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-9a09642 sassico_full_width_mega_menu elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="9a09642" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2bea685 elementor-column elementor-col-20 elementor-inner-column" data-id="2bea685" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e5059ea elementor-widget elementor-widget-image" data-id="e5059ea" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="800" height="381" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?fit=800%2C381&amp;ssl=1" class="attachment-large size-large" alt="" srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?w=1695&amp;ssl=1 1695w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=300%2C143&amp;ssl=1 300w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=1024%2C488&amp;ssl=1 1024w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=768%2C366&amp;ssl=1 768w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=1536%2C732&amp;ssl=1 1536w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-8a838e8 elementor-column elementor-col-20 elementor-inner-column" data-id="8a838e8" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f895732 elementor-widget elementor-widget-ekit-nav-menu" data-id="f895732" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="ekit-nav-menu.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div id="ekit-megamenu-single-page-menu" class="elementskit-menu-container elementskit-menu-offcanvas-elements elementskit-navbar-nav-default elementskit_line_arrow ekit-nav-menu-one-page-yes"><ul id="main-menu" class="elementskit-navbar-nav elementskit-menu-po-right"><li id="menu-item-7028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-5809 current_page_item menu-item-7028 nav-item elementskit-mobile-builder-content active"><a href="https://iquote.solutions/" class="ekit-menu-nav-link active">Home</a></li>
+<li id="menu-item-7073" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7073 nav-item elementskit-mobile-builder-content active"><a href="http://iquote.solutions/#why" class="ekit-menu-nav-link active">Features</a></li>
+<li id="menu-item-7074" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-7074 nav-item elementskit-mobile-builder-content active"><a href="http://iquote.solutions/#price" class="ekit-menu-nav-link active">Pricing</a></li>
+<li id="menu-item-7147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7147 nav-item elementskit-mobile-builder-content"><a href="https://iquote.solutions/blogs/" class="ekit-menu-nav-link">Blogs</a></li>
+</ul>
+				<div class="elementskit-nav-identity-panel">
+					<div class="elementskit-site-title">
+						<a class="elementskit-nav-logo" href="https://iquote.solutions" target="_self" rel="">
+							<img  alt=""  data-src="http://iquote.solutions/wp-content/uploads/2020/04/quote-03.png" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><noscript><img src="http://iquote.solutions/wp-content/uploads/2020/04/quote-03.png" alt="" ></noscript>
+						</a>
+					</div>
+					<button class="elementskit-menu-close elementskit-menu-toggler" type="button">X</button>
+				</div>
+			</div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-971685c elementor-hidden-phone elementor-column elementor-col-20 elementor-inner-column" data-id="971685c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-97a7c7a elementor-widget elementor-widget-html" data-id="97a7c7a" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-91222340-6"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-91222340-6');
+</script>
+		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-cfa5446 elementor-column elementor-col-20 elementor-inner-column" data-id="cfa5446" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a3357c0 elementor-hidden-phone elementor-widget elementor-widget-elementskit-button" data-id="a3357c0" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY4MDkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" target="_self" rel="nofollow" class="elementskit-btn " >
+					
+					
+					Try it Free				</a>
+						</div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-60bab61 elementor-hidden-phone elementor-column elementor-col-20 elementor-inner-column" data-id="60bab61" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1e6a491 elementor-widget elementor-widget-html" data-id="1e6a491" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<meta name="google-site-verification" content="_PbDh6ihqbqrZLe3aVtXOrc5-E4HHknueMhYpDPkcy4" />		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				<div data-elementor-type="wp-page" data-elementor-id="5809" class="elementor elementor-5809" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-286e934c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="286e934c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7218d3c elementor-column elementor-col-50 elementor-top-column" data-id="7218d3c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-74448b2b elementor-widget elementor-widget-elementskit-heading" data-id="74448b2b" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-title ">
+					<span>Instant Quotation</span>
+				</h2><h3 class="elementskit-section-subtitle  ">We build digital product for your success</h3></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8a0eccc elementor-widget elementor-widget-elementskit-heading" data-id="8a0eccc" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><p>Scale your business with Instant Quotation, Inbound Marketing &amp; Website Development Services.</p>
+</div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5631d333 elementor-column elementor-col-50 elementor-top-column" data-id="5631d333" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3de80257 elementor-absolute elementor-hidden-tablet elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="3de80257" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;mousemove&quot;,&quot;_animation&quot;:&quot;zoomInUp&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_on_test_mode&quot;:&quot;on&quot;,&quot;ekit_we_mousemove_parallax_speed&quot;:40}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="184" height="184" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/dot_shape.png?fit=184%2C184&amp;ssl=1" class="lazyload attachment-large size-large" alt="" data-srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/dot_shape.png?w=184&amp;ssl=1 184w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/dot_shape.png?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 184px) 100vw, 184px" /><noscript><img width="184" height="184" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/dot_shape.png?fit=184%2C184&amp;ssl=1" class="lazyload attachment-large size-large" alt="" srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/dot_shape.png?w=184&amp;ssl=1 184w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/dot_shape.png?resize=150%2C150&amp;ssl=1 150w" sizes="(max-width: 184px) 100vw, 184px" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b8d6e08 elementor-widget__width-initial elementor-absolute elementor-hidden-tablet elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="b8d6e08" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;mousemove&quot;,&quot;_animation&quot;:&quot;zoomInDown&quot;,&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_mousemove_parallax_speed&quot;:40}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="800" height="520" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?fit=800%2C520&amp;ssl=1" class="lazyload attachment-large size-large" alt="" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?w=1201&amp;ssl=1 1201w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=300%2C195&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=1024%2C665&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=768%2C499&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=600%2C390&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="520" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?fit=800%2C520&amp;ssl=1" class="lazyload attachment-large size-large" alt="" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?w=1201&amp;ssl=1 1201w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=300%2C195&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=1024%2C665&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=768%2C499&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/as.png?resize=600%2C390&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2d04f494 elementor-absolute elementor-hidden-tablet elementor-hidden-phone elementor-invisible elementor-widget elementor-widget-image" data-id="2d04f494" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceIn&quot;,&quot;_animation_delay&quot;:1000,&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="459" height="315" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/blue_shape_bg.png?fit=459%2C315&amp;ssl=1" class="lazyload attachment-large size-large" alt="" data-srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/blue_shape_bg.png?w=459&amp;ssl=1 459w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/blue_shape_bg.png?resize=300%2C206&amp;ssl=1 300w" sizes="(max-width: 459px) 100vw, 459px" /><noscript><img width="459" height="315" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/blue_shape_bg.png?fit=459%2C315&amp;ssl=1" class="lazyload attachment-large size-large" alt="" srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/blue_shape_bg.png?w=459&amp;ssl=1 459w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2019/11/blue_shape_bg.png?resize=300%2C206&amp;ssl=1 300w" sizes="(max-width: 459px) 100vw, 459px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4a826735 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4a826735" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4c443e87 elementor-hidden-tablet elementor-hidden-phone elementor-column elementor-col-50 elementor-top-column" data-id="4c443e87" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6bc333db elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="6bc333db" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;onscroll&quot;,&quot;ekit_we_scroll_animation&quot;:&quot;translateX&quot;,&quot;ekit_we_scroll_animation_value&quot;:100,&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_on_test_mode&quot;:&quot;on&quot;,&quot;ekit_we_scroll_smoothness&quot;:700,&quot;ekit_we_scroll_offsettop&quot;:0,&quot;ekit_we_scroll_offsetbottom&quot;:0}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/Screenshot-2020-04-13-at-4.39.06-PM.png" title="" alt="" /><noscript><img class="lazyload" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/Screenshot-2020-04-13-at-4.39.06-PM.png?w=800" title="" alt="" data-recalc-dims="1" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-65717297 elementor-widget elementor-widget-image" data-id="65717297" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://iquote.solutions/wp-content/uploads/2019/09/mail_icon.svg" class="lazyload attachment-thumbnail size-thumbnail" alt="" /><noscript><img width="1" height="1"   alt="" data-src="https://iquote.solutions/wp-content/uploads/2019/09/mail_icon.svg" class="lazyload attachment-thumbnail size-thumbnail lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" /><noscript><img width="1" height="1" src="https://iquote.solutions/wp-content/uploads/2019/09/mail_icon.svg" class="lazyload attachment-thumbnail size-thumbnail" alt="" /></noscript></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5108953f elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="5108953f" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;css&quot;,&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="800" height="381" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?fit=800%2C381&amp;ssl=1" class="lazyload attachment-large size-large" alt="" data-srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?w=1695&amp;ssl=1 1695w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=300%2C143&amp;ssl=1 300w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=1024%2C488&amp;ssl=1 1024w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=768%2C366&amp;ssl=1 768w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=1536%2C732&amp;ssl=1 1536w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="381" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?fit=800%2C381&amp;ssl=1" class="lazyload attachment-large size-large" alt="" srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?w=1695&amp;ssl=1 1695w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=300%2C143&amp;ssl=1 300w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=1024%2C488&amp;ssl=1 1024w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=768%2C366&amp;ssl=1 768w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?resize=1536%2C732&amp;ssl=1 1536w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/quote-03.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-7fcc5c2a elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="7fcc5c2a" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;onscroll&quot;,&quot;ekit_we_scroll_animation_value&quot;:50,&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_on_test_mode&quot;:&quot;on&quot;,&quot;ekit_we_scroll_animation&quot;:&quot;translateY&quot;,&quot;ekit_we_scroll_smoothness&quot;:700,&quot;ekit_we_scroll_offsettop&quot;:0,&quot;ekit_we_scroll_offsetbottom&quot;:0}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/Screenshot-2020-04-13-at-4.39.00-PM.png" title="" alt="" /><noscript><img class="lazyload" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/Screenshot-2020-04-13-at-4.39.00-PM.png?w=800" title="" alt="" data-recalc-dims="1" /></noscript>											</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-a475c1f elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="a475c1f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-c55c5b0 elementor-column elementor-col-25 elementor-inner-column" data-id="c55c5b0" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-ec1a4ed elementor-widget elementor-widget-image" data-id="ec1a4ed" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="300" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?fit=300%2C300&amp;ssl=1" class="lazyload attachment-medium size-medium" alt="" data-srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 300px) 100vw, 300px" /><noscript><img width="300" height="300" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?fit=300%2C300&amp;ssl=1" class="lazyload attachment-medium size-medium" alt="" srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?w=1024&amp;ssl=1 1024w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=768%2C768&amp;ssl=1 768w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=600%2C600&amp;ssl=1 600w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/google-logo-9808.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f778f72 elementor-column elementor-col-25 elementor-inner-column" data-id="f778f72" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-778479a elementor-widget elementor-widget-image" data-id="778479a" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/yelp-logo-265.jpg?fit=1000%2C550&amp;ssl=1" title="yelp-logo-265" alt="yelp-logo-265" /><noscript><img class="lazyload" src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/yelp-logo-265.jpg?fit=1000%2C550&amp;ssl=1" title="yelp-logo-265" alt="yelp-logo-265" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-b19c335 elementor-column elementor-col-25 elementor-inner-column" data-id="b19c335" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c982f51 elementor-widget elementor-widget-image" data-id="c982f51" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="800" height="800" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?fit=800%2C800&amp;ssl=1" class="lazyload attachment-large size-large" alt="" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?w=960&amp;ssl=1 960w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=768%2C768&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=600%2C600&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img width="800" height="800" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?fit=800%2C800&amp;ssl=1" class="lazyload attachment-large size-large" alt="" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?w=960&amp;ssl=1 960w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=768%2C768&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=600%2C600&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/facebook-logo-481.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 800px) 100vw, 800px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4602cc4 elementor-column elementor-col-25 elementor-inner-column" data-id="4602cc4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f6d75db elementor-widget elementor-widget-image" data-id="f6d75db" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="512" height="512" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?fit=512%2C512&amp;ssl=1" class="lazyload attachment-large size-large" alt="" data-srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?w=512&amp;ssl=1 512w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?resize=300%2C300&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 512px) 100vw, 512px" /><noscript><img width="512" height="512" src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?fit=512%2C512&amp;ssl=1" class="lazyload attachment-large size-large" alt="" srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?w=512&amp;ssl=1 512w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?resize=300%2C300&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?resize=150%2C150&amp;ssl=1 150w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/instagram-logo-png-2426.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 512px) 100vw, 512px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-1b095b02 elementor-column elementor-col-50 elementor-top-column" data-id="1b095b02" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-23c258ba elementor-widget elementor-widget-elementskit-heading" data-id="23c258ba" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-subtitle  ">Software For You And Your Customers</h2><h3 class="elementskit-section-title ">
+					Join with customers on any channel
+				</h3><p>You can help customers in real-time across all of your channels from email and social websites. iQuote Solutions gives your customers elegant and simplified graphical user interface which will include all your devices with services, social media reviews and appointments. Web Development is not what is used be back than, it's more advanced and fast. iQuote Solutions is providing you a ready made website with as highly customised solution, Instant Quote.</p>
+</div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-76efa46d elementor-widget elementor-widget-elementskit-dual-button" data-id="76efa46d" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-dual-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+                <div class="ekit-element-align-wrapper">
+                    <div class="ekit_double_button">                <a class="ekit-double-btn ekit-double-btn-one" rel="" target="_self" href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY4MDkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D">
+                    Get Now<i aria-hidden="true" class="fasicon icon-arrow-right"></i>                </a>
+                  </div>
+                </div>
+            </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3fb9aff4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3fb9aff4" data-element_type="section" id="why" data-settings="{&quot;background_background&quot;:&quot;slideshow&quot;,&quot;background_slideshow_gallery&quot;:[],&quot;background_slideshow_loop&quot;:&quot;yes&quot;,&quot;background_slideshow_slide_duration&quot;:5000,&quot;background_slideshow_slide_transition&quot;:&quot;fade&quot;,&quot;background_slideshow_transition_duration&quot;:500}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-73d1b8aa elementor-column elementor-col-100 elementor-top-column" data-id="73d1b8aa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-10e9ca37 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="10e9ca37" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-42915e91 elementor-column elementor-col-100 elementor-inner-column" data-id="42915e91" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-613092b6 elementor-widget elementor-widget-elementskit-heading" data-id="613092b6" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-subtitle  ">Benefits Management</h2><h3 class="elementskit-section-title ">
+					Your Time &amp; Money is Important !!
+				</h3></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-506d9979 sassico_direction_aware_hover_effects elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="506d9979" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-754bd718 elementor-column elementor-col-25 elementor-inner-column" data-id="754bd718" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-65f49f1d   animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="65f49f1d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fas fa-file-word"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Good Bye to Sheets &amp;  Documents                </h3>
+                                    <p>With Help of our automated reporting, there is no need to keep writing reports. </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7e1749fa elementor-column elementor-col-25 elementor-inner-column" data-id="7e1749fa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-12f9c70d animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="12f9c70d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fas fa-dollar-sign"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Save Thousands of Dollars                </h3>
+                                    <p>Save thousands on yearly basis by using our automated process, as it saves time. </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-170dc92d elementor-column elementor-col-25 elementor-inner-column" data-id="170dc92d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-288fa5fc   animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="288fa5fc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fas fa-weight-hanging"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    No More Stressful Meetings                </h3>
+                                    <p>No more stress and burden as our software handles all quotation queries.  </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-421f618 elementor-column elementor-col-25 elementor-inner-column" data-id="421f618" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3176de3   animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="3176de3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fas fa-business-time"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Update Any Thing, Any Time                </h3>
+                                    <p>Update it anywhere, anytime &amp; changes will reflect instantly on customer's end. </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-569faba sassico_direction_aware_hover_effects elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="569faba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e843daa elementor-column elementor-col-25 elementor-inner-column" data-id="e843daa" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bf292c0   animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="bf292c0" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fas fa-glasses"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Track Your Quotations                </h3>
+                                    <p>Keep track of your inbound quotations by marking them via our dashboard </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6a09a2b elementor-column elementor-col-25 elementor-inner-column" data-id="6a09a2b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-53941a2   animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="53941a2" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-customer-support-2"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Reach Your Customers                </h3>
+                                    <p>Assigning &amp; tracking of promo codes for your customers, who subscribed for it. </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-fb60d95 elementor-column elementor-col-25 elementor-inner-column" data-id="fb60d95" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-4978b1f   animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="4978b1f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon icon icon-Profile"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Company Profile &amp; Info                </h3>
+                                    <p>Update your Map locations and info within the software. </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2235db1 elementor-column elementor-col-25 elementor-inner-column" data-id="2235db1" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-c9b7fb7   animated-slow elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="c9b7fb7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center icon-top-align elementor-animation-    ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fab fa-servicestack"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Services &amp; Descriptions                </h3>
+                                    <p>Liberty to add or choose Canned responses &amp; Services for each device. </p>
+                                </div>
+        
+        
+                </div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-49d2e84e elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="49d2e84e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-2b5de054 elementor-column elementor-col-50 elementor-top-column" data-id="2b5de054" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2171af8 elementor-widget elementor-widget-shortcode" data-id="2171af8" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us19.list-manage.com","uuid":"361d51875db0074ed3ba30ce3","lid":"9eab56eeeb","uniqueMethods":true}) })</script></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1adefd3 elementor-widget elementor-widget-elementskit-heading" data-id="1adefd3" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-title ">
+					 Google Calendar Integration
+				</h2><p>Whenever your customer books an appointment, you'll not only get confirmation via email but also right in the software as well. Not only that you can see all the appointments in a day , week or even monthly view. If you want to give all the appointments data to someone, you can just print it out with one single click. </p>
+</div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2aa6c60 elementor-column elementor-col-50 elementor-top-column" data-id="2aa6c60" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7f23b85 elementor-widget elementor-widget-image" data-id="7f23b85" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="150" height="150" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=150%2C150&amp;ssl=1" class="lazyload attachment-thumbnail size-thumbnail" alt="" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?w=512&amp;ssl=1 512w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 150px) 100vw, 150px" /><noscript><img width="150" height="150" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=150%2C150&amp;ssl=1" class="lazyload attachment-thumbnail size-thumbnail" alt="" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?w=512&amp;ssl=1 512w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/googlec.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 150px) 100vw, 150px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-e18b2dd elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="e18b2dd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5d8a3e3 elementor-column elementor-col-100 elementor-top-column" data-id="5d8a3e3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-1a11e139 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="1a11e139" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-13a88632 elementor-column elementor-col-100 elementor-inner-column" data-id="13a88632" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-366fc30e elementor-widget elementor-widget-elementskit-heading" data-id="366fc30e" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-subtitle  ">Admin Panel</h2><h3 class="elementskit-section-title ">
+					Your View
+				</h3></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-2b254b2 elementor-widget elementor-widget-elementskit-simple-tab" data-id="2b254b2" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-simple-tab.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div class="elementkit-tab-wraper vertical  elementskit-fitcontent-tab ">
+            <ul class="nav nav-tabs elementkit-tab-nav  elementskit_tab_border_bottm elementskit_tab_border_bottm tab-nav-fluid" role="tablist">
+                                    <li class="elementkit-nav-item elementor-repeater-item-126cd95">
+                        <a class="elementkit-nav-link  active show left-pos" id="content-126cd955efdc9be05380-tab" data-ekit-toggle="tab" href="#content-126cd955efdc9be05380"
+                           role="tab" aria-controls="content-126cd955efdc9be05380" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Look &amp; Feel Matters</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-1b8cc60">
+                        <a class="elementkit-nav-link  left-pos" id="content-1b8cc605efdc9be05380-tab" data-ekit-toggle="tab" href="#content-1b8cc605efdc9be05380"
+                           role="tab" aria-controls="content-1b8cc605efdc9be05380" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Add/Edit Brand</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-3e27958">
+                        <a class="elementkit-nav-link  left-pos" id="content-3e279585efdc9be05380-tab" data-ekit-toggle="tab" href="#content-3e279585efdc9be05380"
+                           role="tab" aria-controls="content-3e279585efdc9be05380" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Add/Edit  Type/Category</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-e18f684">
+                        <a class="elementkit-nav-link  left-pos" id="content-e18f6845efdc9be05380-tab" data-ekit-toggle="tab" href="#content-e18f6845efdc9be05380"
+                           role="tab" aria-controls="content-e18f6845efdc9be05380" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Add/Edit  Devices/Models</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-d22ccfe">
+                        <a class="elementkit-nav-link  left-pos" id="content-d22ccfe5efdc9be05380-tab" data-ekit-toggle="tab" href="#content-d22ccfe5efdc9be05380"
+                           role="tab" aria-controls="content-d22ccfe5efdc9be05380" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Add/Edit  Services</span>
+                        </a>
+                    </li>
+                                </ul>
+
+            <div class="tab-content elementkit-tab-content">
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-126cd95  active show" id="content-126cd955efdc9be05380" role="tabpanel"
+                         aria-labelledby="content-126cd955efdc9be05380-tab">
+                        <div class="animated fadeInUp">
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+<div class="container">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+<!-- Indicators -->
+<ol class="carousel-indicators">
+ 	<li class="active" data-target="#myCarousel" data-slide-to="0"></li>
+ 	<li data-target="#myCarousel" data-slide-to="1"></li>
+</ol>
+<!-- Wrapper for slides -->
+<div class="carousel-inner">
+<div class="item "><img class="lazyload alignnone size-full wp-image-6755" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/1-1.png" alt="" width="1885" height="931" data-srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/1-1.png?resize=300%2C147&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/1-1.png?resize=600%2C295&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6755" src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/1-1.png?resize=800%2C395" alt="" width="800" height="395" srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/1-1.png?resize=300%2C147&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/1-1.png?resize=600%2C295&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript></div>
+<div class="item active "><img class="lazyload alignnone size-full wp-image-6756" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.0.png" alt="" width="1885" height="931" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?w=1876&amp;ssl=1 1876w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=1024%2C506&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=768%2C379&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=1536%2C759&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=600%2C296&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6756" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=800%2C395" alt="" width="800" height="395" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?w=1876&amp;ssl=1 1876w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=1024%2C506&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=768%2C379&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=1536%2C759&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.0.png?resize=600%2C296&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript></div>
+</div>
+</div>
+</div>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-1b8cc60 " id="content-1b8cc605efdc9be05380" role="tabpanel"
+                         aria-labelledby="content-1b8cc605efdc9be05380-tab">
+                        <div class="animated fadeInUp">
+                            <img class="lazyload alignnone size-full wp-image-6763" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/111.png" alt="" width="1892" height="931" data-srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/111.png?resize=300%2C147&amp;ssl=1 300w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/111.png?resize=600%2C294&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6763" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/111.png?resize=800%2C394" alt="" width="800" height="394" srcset="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/111.png?resize=300%2C147&amp;ssl=1 300w, https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/111.png?resize=600%2C294&amp;ssl=1 600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-3e27958 " id="content-3e279585efdc9be05380" role="tabpanel"
+                         aria-labelledby="content-3e279585efdc9be05380-tab">
+                        <div class="animated fadeInUp">
+                            <p><img class="lazyload alignnone size-full wp-image-6766" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/11111.png" alt="" width="1884" height="931" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?w=1884&amp;ssl=1 1884w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=1024%2C506&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=768%2C380&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=1536%2C759&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=600%2C296&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6766" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=800%2C395" alt="" width="800" height="395" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?w=1884&amp;ssl=1 1884w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=1024%2C506&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=768%2C380&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=1536%2C759&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?resize=600%2C296&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/11111.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript></p>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-e18f684 " id="content-e18f6845efdc9be05380" role="tabpanel"
+                         aria-labelledby="content-e18f6845efdc9be05380-tab">
+                        <div class="animated fadeInUp">
+                            <p><img class="lazyload alignnone size-full wp-image-6767" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/111111.png" alt="" width="1889" height="929" data-srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?w=1889&amp;ssl=1 1889w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=300%2C148&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=1024%2C504&amp;ssl=1 1024w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=768%2C378&amp;ssl=1 768w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=1536%2C755&amp;ssl=1 1536w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=600%2C295&amp;ssl=1 600w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6767" src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=800%2C393" alt="" width="800" height="393" srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?w=1889&amp;ssl=1 1889w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=300%2C148&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=1024%2C504&amp;ssl=1 1024w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=768%2C378&amp;ssl=1 768w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=1536%2C755&amp;ssl=1 1536w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?resize=600%2C295&amp;ssl=1 600w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/111111.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript></p>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-d22ccfe " id="content-d22ccfe5efdc9be05380" role="tabpanel"
+                         aria-labelledby="content-d22ccfe5efdc9be05380-tab">
+                        <div class="animated fadeInUp">
+                            <img class="lazyload alignnone size-full wp-image-6781" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/60.png" alt="" width="3492" height="1844" /><noscript><img class="lazyload alignnone size-full wp-image-6781" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/60.png?resize=800%2C422" alt="" width="800" height="422" data-recalc-dims="1" /></noscript>                        </div>
+                    </div>
+                            </div>
+        </div>
+    </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-569e670 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="569e670" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-852a8a4 elementor-column elementor-col-50 elementor-top-column" data-id="852a8a4" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-494d9d5 elementor-absolute elementor-hidden-tablet elementor-hidden-phone animated-slow elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="494d9d5" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_effect_on&quot;:&quot;css&quot;,&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="300" height="220" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?fit=300%2C220&amp;ssl=1" class="lazyload attachment-medium size-medium" alt="" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?w=583&amp;ssl=1 583w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=300%2C220&amp;ssl=1 300w" sizes="(max-width: 300px) 100vw, 300px" /><noscript><img width="300" height="220" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?fit=300%2C220&amp;ssl=1" class="lazyload attachment-medium size-medium" alt="" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?w=583&amp;ssl=1 583w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=300%2C220&amp;ssl=1 300w" sizes="(max-width: 300px) 100vw, 300px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-21a8665 elementor-column elementor-col-50 elementor-top-column" data-id="21a8665" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-02565ac elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="02565ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-860fdfb elementor-column elementor-col-100 elementor-top-column" data-id="860fdfb" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2975b59 elementor-widget elementor-widget-elementskit-heading" data-id="2975b59" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-subtitle  ">Front End </h2><h3 class="elementskit-section-title ">
+					Your Customers View
+				</h3></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-b684b2c elementor-widget elementor-widget-elementskit-simple-tab" data-id="b684b2c" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-simple-tab.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <div class="elementkit-tab-wraper vertical  elementskit-fitcontent-tab ">
+            <ul class="nav nav-tabs elementkit-tab-nav  elementskit_tab_border_bottm elementskit_tab_border_bottm tab-nav-fluid" role="tablist">
+                                    <li class="elementkit-nav-item elementor-repeater-item-3f6db9d">
+                        <a class="elementkit-nav-link  active show left-pos" id="content-3f6db9d5efdc9be08ce7-tab" data-ekit-toggle="tab" href="#content-3f6db9d5efdc9be08ce7"
+                           role="tab" aria-controls="content-3f6db9d5efdc9be08ce7" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Select Category/Type</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-7aa35e1">
+                        <a class="elementkit-nav-link  left-pos" id="content-7aa35e15efdc9be08ce7-tab" data-ekit-toggle="tab" href="#content-7aa35e15efdc9be08ce7"
+                           role="tab" aria-controls="content-7aa35e15efdc9be08ce7" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Select Brand</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-2cf5d5b">
+                        <a class="elementkit-nav-link  left-pos" id="content-2cf5d5b5efdc9be08ce7-tab" data-ekit-toggle="tab" href="#content-2cf5d5b5efdc9be08ce7"
+                           role="tab" aria-controls="content-2cf5d5b5efdc9be08ce7" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Select Device/Model</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-45b8c29">
+                        <a class="elementkit-nav-link  left-pos" id="content-45b8c295efdc9be08ce7-tab" data-ekit-toggle="tab" href="#content-45b8c295efdc9be08ce7"
+                           role="tab" aria-controls="content-45b8c295efdc9be08ce7" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Select Service</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-1feab65">
+                        <a class="elementkit-nav-link  left-pos" id="content-1feab655efdc9be08ce7-tab" data-ekit-toggle="tab" href="#content-1feab655efdc9be08ce7"
+                           role="tab" aria-controls="content-1feab655efdc9be08ce7" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Fill In From</span>
+                        </a>
+                    </li>
+                                        <li class="elementkit-nav-item elementor-repeater-item-d95f852">
+                        <a class="elementkit-nav-link  left-pos" id="content-d95f8525efdc9be08ce7-tab" data-ekit-toggle="tab" href="#content-d95f8525efdc9be08ce7"
+                           role="tab" aria-controls="content-d95f8525efdc9be08ce7" aria-selected="true">
+                            <span class=" elementskit-tab-icon"></span>                            <span class="elementskit-tab-title">Your Social Media Reviews</span>
+                        </a>
+                    </li>
+                                </ul>
+
+            <div class="tab-content elementkit-tab-content">
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-3f6db9d  active show" id="content-3f6db9d5efdc9be08ce7" role="tabpanel"
+                         aria-labelledby="content-3f6db9d5efdc9be08ce7-tab">
+                        <div class="animated fadeInUp">
+                            <p> </p><div class="container"><div id="myCarousel" class="carousel slide" data-ride="carousel"><!-- Indicators --><ol class="carousel-indicators"><li class="active" data-target="#myCarousel" data-slide-to="0"> </li><li data-target="#myCarousel" data-slide-to="1"> </li></ol><!-- Wrapper for slides --><div class="carousel-inner"><div class="item active "><img style="width: 100%;" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.1.png" /><noscript><img style="width: 100%;" class="lazyload" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.1.png?w=800" data-recalc-dims="1" /></noscript></div><div class="item "><img style="width: 100% height=;" class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.6.png" /><noscript><img style="width: 100% height=;" class="lazyload" src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.6.png?w=800" data-recalc-dims="1" /></noscript></div></div></div></div>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-7aa35e1 " id="content-7aa35e15efdc9be08ce7" role="tabpanel"
+                         aria-labelledby="content-7aa35e15efdc9be08ce7-tab">
+                        <div class="animated fadeInUp">
+                            <img class="lazyload alignnone size-full wp-image-6758" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.2.png" alt="" width="1887" height="936" data-srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?w=1887&amp;ssl=1 1887w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=300%2C149&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=1024%2C508&amp;ssl=1 1024w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=768%2C381&amp;ssl=1 768w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=1536%2C762&amp;ssl=1 1536w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=600%2C298&amp;ssl=1 600w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6758" src="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=800%2C397" alt="" width="800" height="397" srcset="https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?w=1887&amp;ssl=1 1887w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=300%2C149&amp;ssl=1 300w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=1024%2C508&amp;ssl=1 1024w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=768%2C381&amp;ssl=1 768w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=1536%2C762&amp;ssl=1 1536w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?resize=600%2C298&amp;ssl=1 600w, https://i1.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.2.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-2cf5d5b " id="content-2cf5d5b5efdc9be08ce7" role="tabpanel"
+                         aria-labelledby="content-2cf5d5b5efdc9be08ce7-tab">
+                        <div class="animated fadeInUp">
+                            <p><img class="lazyload alignnone size-full wp-image-6759" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.3.png" alt="" width="1875" height="914" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?w=1875&amp;ssl=1 1875w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=300%2C146&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=1024%2C499&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=768%2C374&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=1536%2C749&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=600%2C292&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6759" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=800%2C390" alt="" width="800" height="390" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?w=1875&amp;ssl=1 1875w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=300%2C146&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=1024%2C499&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=768%2C374&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=1536%2C749&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?resize=600%2C292&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.3.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript></p>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-45b8c29 " id="content-45b8c295efdc9be08ce7" role="tabpanel"
+                         aria-labelledby="content-45b8c295efdc9be08ce7-tab">
+                        <div class="animated fadeInUp">
+                             <head>
+   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+ 
+<div class="container">
+   <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+       <li data-target="#myCarousel" data-slide-to="1"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item  active  ">
+        <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/1111.png"  style="width:100%;"><noscript><img class="lazyload" src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/1111.png?w=800"  style="width:100%;" data-recalc-dims="1"></noscript>
+      </div>
+
+      <div class="item   ">
+        <img class="lazyload" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.7.png"  style="width:100%;"><noscript><img class="lazyload" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.7.png?w=800"  style="width:100%;" data-recalc-dims="1"></noscript>
+      </div>
+    
+    
+    </div>
+
+ 
+  </div>
+</div>
+
+                          </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-1feab65 " id="content-1feab655efdc9be08ce7" role="tabpanel"
+                         aria-labelledby="content-1feab655efdc9be08ce7-tab">
+                        <div class="animated fadeInUp">
+                            <p><img class="lazyload alignnone size-full wp-image-6760" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.5.png" alt="" width="1889" height="932" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?w=1889&amp;ssl=1 1889w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=1024%2C505&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=768%2C379&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=1536%2C758&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=600%2C296&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6760" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=800%2C395" alt="" width="800" height="395" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?w=1889&amp;ssl=1 1889w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=1024%2C505&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=768%2C379&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=1536%2C758&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?resize=600%2C296&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.5.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript></p>                        </div>
+                    </div>
+                                    <div class="tab-pane elementkit-tab-pane elementor-repeater-item-d95f852 " id="content-d95f8525efdc9be08ce7" role="tabpanel"
+                         aria-labelledby="content-d95f8525efdc9be08ce7-tab">
+                        <div class="animated fadeInUp">
+                            <p><img class="lazyload alignnone size-full wp-image-6776" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/2.8.png" alt="" width="1895" height="936" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?w=1895&amp;ssl=1 1895w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=1024%2C506&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=768%2C379&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=1536%2C759&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=600%2C296&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" /><noscript><img class="lazyload alignnone size-full wp-image-6776" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=800%2C395" alt="" width="800" height="395" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?w=1895&amp;ssl=1 1895w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=300%2C148&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=1024%2C506&amp;ssl=1 1024w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=768%2C379&amp;ssl=1 768w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=1536%2C759&amp;ssl=1 1536w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?resize=600%2C296&amp;ssl=1 600w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/2.8.png?w=1600&amp;ssl=1 1600w" sizes="(max-width: 800px) 100vw, 800px" data-recalc-dims="1" /></noscript></p>                        </div>
+                    </div>
+                            </div>
+        </div>
+    </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ef305c9 elementor-absolute elementor-hidden-tablet elementor-hidden-phone animated-slow elementor-widget__width-initial elementor-invisible elementor-widget elementor-widget-image" data-id="ef305c9" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;ekit_we_effect_on&quot;:&quot;css&quot;,&quot;_animation&quot;:&quot;fadeInLeft&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="427" height="427" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?fit=427%2C427&amp;ssl=1" class="lazyload attachment-large size-large" alt="" data-srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 427px) 100vw, 427px" /><noscript><img width="427" height="427" src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?fit=427%2C427&amp;ssl=1" class="lazyload attachment-large size-large" alt="" srcset="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=150%2C150&amp;ssl=1 150w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=300%2C300&amp;ssl=1 300w, https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/ii-02.png?resize=100%2C100&amp;ssl=1 100w" sizes="(max-width: 427px) 100vw, 427px" /></noscript>											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-2fb43e66 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2fb43e66" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4d6fe7c7 elementor-column elementor-col-100 elementor-top-column" data-id="4d6fe7c7" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-46d3c133 elementor-widget elementor-widget-elementskit-heading" data-id="46d3c133" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-title ">
+					Specially Built For 
+				</h2></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4ef243d8 elementor-widget elementor-widget-elementskit-testimonial" data-id="4ef243d8" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-testimonial.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-testimonial-slider" data-slidestoshow='1' data-slidestoscroll= '1' data-speed= '1000' data-autoplay= 'yes' data-show_arrow= 'yes' data-show_dot= 'yes' data-left_icon="icon icon-left-arrow2" data-right_icon="icon icon-right-arrow2"data-pause_on_hover= 'yes' >
+			<div class="elementskit-testimonial-inner">
+			<div class="elementskit-single-testimonial-slider ekit_testimonial_style_2">
+				<div class="elementskit-commentor-content">
+											<div class="elementskit-client_logo">
+														<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/samsung-galaxy-s20-ultra-.jpg" class="lazyload elementskit-testimonial-client-logo" alt="Client Logo"><noscript><img src="https://i0.wp.com/iquote.solutions/wp-content/uploads/2020/04/samsung-galaxy-s20-ultra-.jpg?w=800" class="lazyload elementskit-testimonial-client-logo" alt="Client Logo" data-recalc-dims="1"></noscript>
+						</div>
+															<span class="elementskit-profile-info">
+						<strong class="elementskit-author-name">Gadget Repair Shop Owners</strong>
+						<span class="elementskit-author-des">Tech gadget repair and iQuote Solutions go hand in hand. Enter or Update the devices  and services. And you start using straight away.</span>
+					</span>
+				</div>
+							</div>
+		</div>
+			<div class="elementskit-testimonial-inner">
+			<div class="elementskit-single-testimonial-slider ekit_testimonial_style_2">
+				<div class="elementskit-commentor-content">
+											<div class="elementskit-client_logo">
+														<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/a.jpg" class="lazyload elementskit-testimonial-client-logo" alt="Client Logo"><noscript><img src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/a.jpg?w=800" class="lazyload elementskit-testimonial-client-logo" alt="Client Logo" data-recalc-dims="1"></noscript>
+						</div>
+															<span class="elementskit-profile-info">
+						<strong class="elementskit-author-name">Auto-mobiles Dealers &amp; Showrooms</strong>
+						<span class="elementskit-author-des">Automobile Repairs/services  and iQuote solutions are a match made in heaven. Catering all the needs for Auto Industry Quotes.</span>
+					</span>
+				</div>
+							</div>
+		</div>
+			<div class="elementskit-testimonial-inner">
+			<div class="elementskit-single-testimonial-slider ekit_testimonial_style_2">
+				<div class="elementskit-commentor-content">
+											<div class="elementskit-client_logo">
+														<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://iquote.solutions/wp-content/uploads/2020/04/banner-4-man.png" class="lazyload elementskit-testimonial-client-logo" alt="Client Logo"><noscript><img src="https://i2.wp.com/iquote.solutions/wp-content/uploads/2020/04/banner-4-man.png?w=800" class="lazyload elementskit-testimonial-client-logo" alt="Client Logo" data-recalc-dims="1"></noscript>
+						</div>
+															<span class="elementskit-profile-info">
+						<strong class="elementskit-author-name">Your Customers</strong>
+						<span class="elementskit-author-des">And the biggest beneficiary are your customers who don't have to waste time and effort. Easy to use user interface allows the Customers to interact rapidly and effectively.</span>
+					</span>
+				</div>
+							</div>
+		</div>
+	</div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7f3fa347 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7f3fa347" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4e455198 elementor-column elementor-col-50 elementor-top-column" data-id="4e455198" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-7ae65cac elementor-widget elementor-widget-elementskit-heading" data-id="7ae65cac" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="elementskit-section-title ">
+					Got Interested ?? Ask for a   Demo
+				</h2><p>We'll show you live demo both backend and front end with all the features and functionalities. Not only that we can also customise it according to your requirements. Lets enroll now !! </p>
+</div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-63af0a06 elementor-column elementor-col-50 elementor-top-column" data-id="63af0a06" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-98136ae elementor-widget elementor-widget-elementskit-creative-button" data-id="98136ae" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;tilt&quot;,&quot;ekit_we_tilt_maxtilt&quot;:20,&quot;ekit_we_tilt_scale&quot;:1}" data-widget_type="elementskit-creative-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+								<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY4MDkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" target="_self" rel="" class="ekit_creative_button " >
+						<span class="ekit_creative_button_text">Get It Now FREE</span>
+											</a>
+						</div>
+        </div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4fb512ae elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4fb512ae" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-685c5d5f elementor-column elementor-col-100 elementor-top-column" data-id="685c5d5f" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-c0c9e2b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="c0c9e2b" data-element_type="section" id="price">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-12b6731d elementor-column elementor-col-100 elementor-inner-column" data-id="12b6731d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-25b64ed0 elementor-widget elementor-widget-elementskit-heading" data-id="25b64ed0" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="elementskit-section-title-wraper center   ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="elementskit-section-subtitle  ">Pricing Plan</h3><h2 class="elementskit-section-title ">
+					Choose Pricing Plan
+				</h2></div></div>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4bdd9f1 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4bdd9f1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-25740323 elementor-column elementor-col-33 elementor-inner-column" data-id="25740323" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3157c2f1 elementor-widget elementor-widget-elementskit-pricing" data-id="3157c2f1" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-pricing.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+
+        <div class="elementskit-single-pricing " >
+            <div class="elementskit-pricing-header ">
+								
+				                	<h3					class=" elementskit-pricing-title">iSaver					</h3>
+								            </div>
+			            <div class=" elementskit-pricing-price-wraper has-tag ">
+                <div class="elementskit-pricing-tag"></div>
+                <span class="elementskit-pricing-price">
+											<sup class="currency">$</sup>
+										<span> Ask for Quotation</span>
+										<sub class="period"> /Month</sub>
+				</span>
+            </div>
+			            <div class="elementskit-pricing-content ">
+
+                                    <p> Full Access <br>
+1 User<br>
+1 Location<br>
+No Reviews <br>
+No Social Media Highlights<br>
+No Reporting </br>
+Theme Coloring</br>
+No Instant Support<br>
+No Appointment Module <br>
+Discount Codes <br>
+</p>
+                                            </div>
+            <div class="elementskit-pricing-btn-wraper ">
+				            </div>
+        </div>
+
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d8dacef elementor-widget elementor-widget-elementskit-creative-button" data-id="d8dacef" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;tilt&quot;,&quot;ekit_we_tilt_maxtilt&quot;:20,&quot;ekit_we_tilt_scale&quot;:1}" data-widget_type="elementskit-creative-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+								<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY4MDkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" target="_self" rel="" class="ekit_creative_button " >
+						<span class="ekit_creative_button_text">Choose plan</span>
+											</a>
+						</div>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6738d9d elementor-widget elementor-widget-spacer" data-id="6738d9d" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5e2ba828 elementor-column elementor-col-33 elementor-inner-column" data-id="5e2ba828" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2c363155 elementor-widget elementor-widget-elementskit-pricing" data-id="2c363155" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-pricing.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+
+        <div class="elementskit-single-pricing " >
+            <div class="elementskit-pricing-header ">
+								
+				                	<h3					class=" elementskit-pricing-title">iPro					</h3>
+								            </div>
+			            <div class=" elementskit-pricing-price-wraper has-tag ">
+                <div class="elementskit-pricing-tag"></div>
+                <span class="elementskit-pricing-price">
+											<sup class="currency">$</sup>
+										<span> Ask for Quotation</span>
+										<sub class="period"> /Month</sub>
+				</span>
+            </div>
+			            <div class="elementskit-pricing-content ">
+
+                                    <p> Full Access <br>
+1 User<br>
+2 Locations<br>
+Reviews <br>
+Social Media Highlights <br>
+Theme Coloring</br>
+Reporting </br>
+Instant Support<br>
+Appointment Module <br>
+Discount Codes <br>
+</p>
+                                            </div>
+            <div class="elementskit-pricing-btn-wraper ">
+				            </div>
+        </div>
+
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-385f59e elementor-widget elementor-widget-elementskit-creative-button" data-id="385f59e" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;tilt&quot;,&quot;ekit_we_tilt_maxtilt&quot;:20,&quot;ekit_we_tilt_scale&quot;:1}" data-widget_type="elementskit-creative-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+								<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY4MDkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" target="_self" rel="" class="ekit_creative_button " >
+						<span class="ekit_creative_button_text">Choose plan</span>
+											</a>
+						</div>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0433a79 elementor-widget elementor-widget-spacer" data-id="0433a79" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-38fedd44 elementor-column elementor-col-33 elementor-inner-column" data-id="38fedd44" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1f065d44 elementor-widget elementor-widget-elementskit-pricing" data-id="1f065d44" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="elementskit-pricing.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >
+
+        <div class="elementskit-single-pricing " >
+            <div class="elementskit-pricing-header ">
+								
+				                	<h3					class=" elementskit-pricing-title">iExpert					</h3>
+								            </div>
+			            <div class=" elementskit-pricing-price-wraper has-tag ">
+                <div class="elementskit-pricing-tag"></div>
+                <span class="elementskit-pricing-price">
+											<sup class="currency">$</sup>
+										<span> Ask for Quotation</span>
+										<sub class="period"> /Month</sub>
+				</span>
+            </div>
+			            <div class="elementskit-pricing-content ">
+
+                                    <p> Full Access <br>
+2 Users<br>
+Upto 5 Locations<br>
+Reviews <br>
+Social Media Highlights<br>
+Theme Coloring</br>
+Reporting </br>
+Instant Support<br>
+Appointment Module <br>
+Discount Codes <br>
+</p>
+                                            </div>
+            <div class="elementskit-pricing-btn-wraper ">
+				            </div>
+        </div>
+
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-83fdcc1 elementor-widget elementor-widget-elementskit-creative-button" data-id="83fdcc1" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;tilt&quot;,&quot;ekit_we_tilt_maxtilt&quot;:20,&quot;ekit_we_tilt_scale&quot;:1}" data-widget_type="elementskit-creative-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+								<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%20settings%3DeyJpZCI6IjY4MDkiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" target="_self" rel="" class="ekit_creative_button " >
+						<span class="ekit_creative_button_text">Choose plan</span>
+											</a>
+						</div>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c7a6b34 elementor-widget elementor-widget-spacer" data-id="c7a6b34" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<div class="elementor-element elementor-element-824d7d2 elementor-widget elementor-widget-spacer" data-id="824d7d2" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-element elementor-element-450e0fc elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="450e0fc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6d4c554 elementor-column elementor-col-33 elementor-inner-column" data-id="6d4c554" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-8f30874 elementor-column elementor-col-33 elementor-inner-column" data-id="8f30874" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-3f1f87b elementor-column elementor-col-33 elementor-inner-column" data-id="3f1f87b" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-3cdf9477 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="3cdf9477" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5ddd234c elementor-column elementor-col-100 elementor-top-column" data-id="5ddd234c" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-5d2d331f elementor-widget elementor-widget-heading" data-id="5d2d331f" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">FAQ</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-74c46af7 elementor-widget elementor-widget-heading" data-id="74c46af7" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Most frequent questions and answers</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-851c1c5 elementor-widget elementor-widget-toggle" data-id="851c1c5" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="toggle.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-toggle" role="tablist">
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1391" class="elementor-tab-title" data-tab="1" role="tab" aria-controls="elementor-tab-content-1391">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Should I unsubscribe with my current POS?</a>
+					</div>
+					<div id="elementor-tab-content-1391" class="elementor-tab-content elementor-clearfix" data-tab="1" role="tabpanel" aria-labelledby="elementor-tab-title-1391"><p>Whichever POS are you using, we won&#8217;t recommend you to unsubscribe for it. Our software is more for your customers rather than your inventory. </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1392" class="elementor-tab-title" data-tab="2" role="tab" aria-controls="elementor-tab-content-1392">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Which benefits can I get?</a>
+					</div>
+					<div id="elementor-tab-content-1392" class="elementor-tab-content elementor-clearfix" data-tab="2" role="tabpanel" aria-labelledby="elementor-tab-title-1392"><p>You just need to share One Link to all of your customers where they can see every single info, they need. Such as your services, your reviews, your social media designs or your current offers. All in one single page. </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1393" class="elementor-tab-title" data-tab="3" role="tab" aria-controls="elementor-tab-content-1393">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Can I integrate it in my website?</a>
+					</div>
+					<div id="elementor-tab-content-1393" class="elementor-tab-content elementor-clearfix" data-tab="3" role="tabpanel" aria-labelledby="elementor-tab-title-1393"><p>Yeah surely. You can integrate it into your website. We can do it for you Free. </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1394" class="elementor-tab-title" data-tab="4" role="tab" aria-controls="elementor-tab-content-1394">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Can I update any service or any device?</a>
+					</div>
+					<div id="elementor-tab-content-1394" class="elementor-tab-content elementor-clearfix" data-tab="4" role="tabpanel" aria-labelledby="elementor-tab-title-1394"><p>Yes. You can do whatever you want. Our software is giving you tons of customisation. </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1395" class="elementor-tab-title" data-tab="5" role="tab" aria-controls="elementor-tab-content-1395">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">I don't have a website, So what should I need to do?</a>
+					</div>
+					<div id="elementor-tab-content-1395" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-1395"><p>Hey, don&#8217;t worry! if you have no website, get iQuote.Solutions and save thousands of bucks. iQuote.solutions will give you one page website with all the information that your customers wanted to know.</p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1396" class="elementor-tab-title" data-tab="6" role="tab" aria-controls="elementor-tab-content-1396">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Can I get a Free Trial?</a>
+					</div>
+					<div id="elementor-tab-content-1396" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-1396"><p>Yes Certainly!. You can get free trial. We&#8217;ll show you how our iQuote.Solutions works and increase your revenue. </p></div>
+				</div>
+							<div class="elementor-toggle-item">
+					<div id="elementor-tab-title-1397" class="elementor-tab-title" data-tab="7" role="tab" aria-controls="elementor-tab-content-1397">
+												<span class="elementor-toggle-icon elementor-toggle-icon-right" aria-hidden="true">
+															<span class="elementor-toggle-icon-closed"><i class="fas fa-caret-right"></i></span>
+								<span class="elementor-toggle-icon-opened"><i class="elementor-toggle-icon-opened fas fa-caret-up"></i></span>
+													</span>
+												<a href="" class="elementor-toggle-title">Can you also provide social media marketing?</a>
+					</div>
+					<div id="elementor-tab-content-1397" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-1397"><p>Of course. We recommend to get iQuote.Solutions with social media marketing services as well. Don&#8217;t worry, We will charge less than any competitor. </p></div>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7cc76b4 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7cc76b4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5d5c0c3 elementor-column elementor-col-100 elementor-top-column" data-id="5d5c0c3" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0aeb8e9 elementor-widget elementor-widget-html" data-id="0aeb8e9" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<script id="Ym90cGVuZ3VpbkFwaQ" src="https://cdn.botpenguin.com/bot.js?apiKey=F%2Ar3f%28-%3E%29VsCVCWo%7ED6X%3EI" async></script>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+       
+   
+   
+         
+      
+   <div class="copy-right">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-6 col-md-6 wow fadeInUp" data-wow-duration="1.5s" data-wow-delay="300ms">
+
+                     <div class="copyright-text">
+                     &copy; 2020, iQuote Solutions. All rights reserved                     </div>
+               </div>
+               <div class="col-lg-6 col-md-5">
+                  
+                     <div class="footer-social">
+                        <ul class="default-footer-social-media-link">
+                                                </ul>
+                       
+                     </div>
+                     <!--Footer Social End-->
+               </div>
+            </div>
+            <!-- end row -->
+         </div>
+   </div>
+        <!-- end footer -->
+         <div class="back_to_top">
+         <a href="#" class="fa fa-angle-up" aria-hidden="true"></a>
+      </div>
+   		<div data-elementor-type="popup" data-elementor-id="6809" class="elementor elementor-6809 elementor-location-popup" data-elementor-settings="{&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-29e76e45 elementor-section-content-middle elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle elementor-section elementor-top-section" data-id="29e76e45" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-5471012b elementor-column elementor-col-100 elementor-top-column" data-id="5471012b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-3e1ff4b3 elementor-widget elementor-widget-heading" data-id="3e1ff4b3" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Contact us</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-29f8e904 elementor-widget elementor-widget-heading" data-id="29f8e904" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Get It Free</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-319e278 elementor-button-align-center elementor-widget elementor-widget-form" data-id="319e278" data-element_type="widget" data-settings="{&quot;ekit_we_effect_on&quot;:&quot;none&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" id="contactform" name="Final Form">
+			<input type="hidden" name="post_id" value="6809"/>
+			<input type="hidden" name="form_id" value="319e278"/>
+
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-name elementor-col-100 elementor-field-required">
+					<input size="1" type="text" name="form_fields[name]" id="form-field-name" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Name *" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-field-required">
+					<input size="1" type="email" name="form_fields[email]" id="form-field-email" class="elementor-field elementor-size-sm  elementor-field-textual" placeholder="Business Email *" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-message elementor-col-100">
+					<textarea class="elementor-field-textual elementor-field  elementor-size-sm" name="form_fields[message]" id="form-field-message" rows="3" placeholder="Brief info about your business"></textarea>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Submit</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		<script type="text/template" id="tmpl-elementor-templates-modal__header">
+	<div class="elementor-templates-modal__header__logo-area"></div>
+	<div class="elementor-templates-modal__header__menu-area"></div>
+	<div class="elementor-templates-modal__header__items-area">
+		<# if ( closeType ) { #>
+			<div class="elementor-templates-modal__header__close elementor-templates-modal__header__close--{{{ closeType }}} elementor-templates-modal__header__item">
+				<# if ( 'skip' === closeType ) { #>
+				<span>Skip</span>
+				<# } #>
+				<i class="eicon-close" aria-hidden="true" title="Close"></i>
+				<span class="elementor-screen-only">Close</span>
+			</div>
+		<# } #>
+		<div id="elementor-template-library-header-tools"></div>
+	</div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-templates-modal__header__logo">
+	<span class="elementor-templates-modal__header__logo__icon-wrapper elementor-gradient-logo">
+		<i class="eicon-elementor"></i>
+	</span>
+	<span class="elementor-templates-modal__header__logo__title">{{{ title }}}</span>
+</script>
+<script type="text/template" id="tmpl-elementor-finder">
+	<div id="elementor-finder__search">
+		<i class="eicon-search"></i>
+		<input id="elementor-finder__search__input" placeholder="Type to find anything in Elementor">
+	</div>
+	<div id="elementor-finder__content"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder-results-container">
+	<div id="elementor-finder__no-results">No Results Found</div>
+	<div id="elementor-finder__results"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__category">
+	<div class="elementor-finder__results__category__title">{{{ title }}}</div>
+	<div class="elementor-finder__results__category__items"></div>
+</script>
+
+<script type="text/template" id="tmpl-elementor-finder__results__item">
+	<a href="{{ url }}" class="elementor-finder__results__item__link">
+		<div class="elementor-finder__results__item__icon">
+			<i class="eicon-{{{ icon }}}"></i>
+		</div>
+		<div class="elementor-finder__results__item__title">{{{ title }}}</div>
+		<# if ( description ) { #>
+			<div class="elementor-finder__results__item__description">- {{{ description }}}</div>
+		<# } #>
+	</a>
+	<# if ( actions.length ) { #>
+		<div class="elementor-finder__results__item__actions">
+		<# jQuery.each( actions, function() { #>
+			<a class="elementor-finder__results__item__action elementor-finder__results__item__action--{{ this.name }}" href="{{ this.url }}" target="_blank">
+				<i class="eicon-{{{ this.icon }}}"></i>
+			</a>
+		<# } ); #>
+		</div>
+	<# } #>
+</script>
+<link rel='stylesheet' id='wpcom-notes-admin-bar-css'  href='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.css?ver=8.6.1-202027' type='text/css' media='all' />
+<link rel='stylesheet' id='noticons-css'  href='https://s0.wp.com/i/noticons/noticons.css?ver=8.6.1-202027' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-5811-css'  href='https://iquote.solutions/wp-content/uploads/elementor/css/post-5811.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var ekit_site_url = {"siteurl":"https:\/\/iquote.solutions"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/mail-chimp-script.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/chart-kit-js.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/hoverintent-js.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/admin-bar.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.6.1/_inc/build/photon/photon.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/sg-cachepress/assets/js/lazysizes.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js'></script>
+<script type='text/javascript'>
+lazySizes.cfg.nativeLoading={setLoadingAttribute:false,disableListeners:{scroll:true}};lazySizes.init();
+</script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/htm.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mf = {"postType":"page","restURI":"https:\/\/iquote.solutions\/wp-json\/metform\/v1\/forms\/views\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/metform-app.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/elementskit-framework-js-frontend.min.js'></script>
+<script type='text/javascript'>
+        //console.log(window.elementskit);
+
+		var elementskit = {
+            resturl: 'https://iquote.solutions/wp-json/elementskit/v1/',
+        }
+
+        //console.log(window.elementskit);
+		
+</script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/ekit-nav-menu.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/widgets/init/assets/js/ui-slim.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/modules/parallax/assets/js/TweenMax.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/jquery-easing.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/widgets/init/assets/js/tilt.jquery.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/animejs.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/magicianjs.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/8.6.1/_inc/build/lazy-images/js/lazy-images.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/mouse.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/draggable.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/underscore.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/backbone.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/backbone/backbone.marionette.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/backbone/backbone.radio.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/js/common-modules.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/jquery/ui/position.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js'></script>
+<script type='text/javascript'>
+var elementorCommonConfig = {"version":"2.9.11","isRTL":false,"isDebug":false,"activeModules":["ajax","finder","connect"],"urls":{"assets":"https:\/\/iquote.solutions\/wp-content\/plugins\/elementor\/assets\/"},"ajax":{"url":"https:\/\/iquote.solutions\/wp-admin\/admin-ajax.php","nonce":"57310cc4ef"},"finder":{"data":{"edit":{"title":"Edit","dynamic":true,"name":"edit"},"general":{"title":"General","dynamic":false,"items":{"saved-templates":{"title":"Saved Templates","icon":"library-save","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=library","keywords":["template","section","page","library"]},"system-info":{"title":"System Info","icon":"info-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor-system-info","keywords":["system","info","environment","elementor"]},"role-manager":{"title":"Role Manager","icon":"person","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor-role-manager","keywords":["role","manager","user","elementor"]},"knowledge-base":{"title":"Knowledge Base","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=go_knowledge_base_site","keywords":["help","knowledge","docs","elementor"]},"popups":{"title":"Popups","icon":"library-save","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=popup&elementor_library_type=popup","keywords":["template","popup","library"]},"theme-builder":{"title":"Theme Builder","icon":"library-save","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme","keywords":["template","header","footer","single","archive","search","404","library"]}},"name":"general"},"create":{"title":"Create","dynamic":false,"items":{"post":{"title":"Add New Blog","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?action=elementor_new_post&post_type=post&_wpnonce=1e5e922c4d","keywords":["post","page","template","new","create"]},"page":{"title":"Add New Page","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?action=elementor_new_post&post_type=page&_wpnonce=1e5e922c4d","keywords":["post","page","template","new","create"]},"elementskit_content":{"title":"Add New Elementskit item","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_content&_wpnonce=1e5e922c4d","keywords":["post","page","template","new","create"]},"metform-form":{"title":"Add New Form","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?action=elementor_new_post&post_type=metform-form&_wpnonce=1e5e922c4d","keywords":["post","page","template","new","create"]},"sassico-service":{"title":"Add New Service","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?action=elementor_new_post&post_type=sassico-service&_wpnonce=1e5e922c4d","keywords":["post","page","template","new","create"]},"elementor_library":{"title":"Add New Template","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_library#add_new","keywords":["post","page","template","new","create"]},"elementskit_template":{"title":"Add New Template","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?action=elementor_new_post&post_type=elementskit_template&_wpnonce=1e5e922c4d","keywords":["post","page","template","new","create"]},"popups":{"title":"Add New Popup","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=popup&elementor_library_type=popup#add_new","keywords":["template","theme","popup","new","create"]},"theme-template":{"title":"Add New Theme Template","icon":"plus-circle-o","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_library&tabs_group=theme#add_new","keywords":["template","theme","new","create"]}},"name":"create"},"site":{"title":"Site","dynamic":false,"items":{"homepage":{"title":"Homepage","url":"https:\/\/iquote.solutions","icon":"home-heart","keywords":["home","page"]},"wordpress-dashboard":{"title":"Dashboard","icon":"dashboard","url":"https:\/\/iquote.solutions\/wp-admin\/","keywords":["dashboard","wordpress"]},"wordpress-menus":{"title":"Menus","icon":"wordpress","url":"https:\/\/iquote.solutions\/wp-admin\/nav-menus.php","keywords":["menu","wordpress"]},"wordpress-themes":{"title":"Themes","icon":"wordpress","url":"https:\/\/iquote.solutions\/wp-admin\/themes.php","keywords":["themes","wordpress"]},"wordpress-customizer":{"title":"Customizer","icon":"wordpress","url":"https:\/\/iquote.solutions\/wp-admin\/customize.php","keywords":["customizer","wordpress"]},"wordpress-plugins":{"title":"Plugins","icon":"wordpress","url":"https:\/\/iquote.solutions\/wp-admin\/plugins.php","keywords":["plugins","wordpress"]},"wordpress-users":{"title":"Users","icon":"wordpress","url":"https:\/\/iquote.solutions\/wp-admin\/users.php","keywords":["users","profile","wordpress"]}},"name":"site"},"settings":{"title":"Settings","dynamic":false,"items":{"general-settings":{"title":"General Settings","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor","keywords":["general","settings","elementor"]},"style":{"title":"Style","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor#tab-style","keywords":["style","settings","elementor"]},"advanced":{"title":"Advanced","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor#tab-advanced","keywords":["advanced","settings","elementor"]},"custom-fonts":{"title":"Custom Fonts","icon":"typography","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_font","keywords":["custom","fonts","elementor"]},"custom-icons":{"title":"Custom Icons","icon":"favorite","url":"https:\/\/iquote.solutions\/wp-admin\/edit.php?post_type=elementor_icons","keywords":["custom","icons","elementor"]}},"name":"settings"},"tools":{"title":"Tools","dynamic":false,"items":{"tools":{"title":"Tools","icon":"tools","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor-tools","keywords":["tools","regenerate css","safe mode","debug bar","sync library","elementor"]},"replace-url":{"title":"Replace URL","icon":"tools","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor-tools#tab-replace_url","keywords":["tools","replace url","domain","elementor"]},"version-control":{"title":"Version Control","icon":"time-line","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor-tools#tab-versions","keywords":["tools","version","control","rollback","beta","elementor"]},"maintenance-mode":{"title":"Maintenance Mode","icon":"tools","url":"https:\/\/iquote.solutions\/wp-admin\/admin.php?page=elementor-tools#tab-maintenance_mode","keywords":["tools","maintenance","coming soon","elementor"]}},"name":"tools"}},"i18n":{"finder":"Finder"}},"connect":[]};
+</script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/js/common.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/themes/sassico/assets/js/bootstrap.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/Popper.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/themes/sassico/assets/js/jquery.magnific-popup.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/lazyload.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/themes/sassico/assets/js/wow.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/uploads/siteground-optimizer-assets/sassico-script.min.js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.4.2/wp-includes/js/wp-embed.min.js'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/js/mustache.js?ver=8.6.1-202027'></script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/notes/notes-common-v2.js?ver=8.6.1-202027'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/mu-plugins/notes/admin-bar-v2.js?ver=8.6.1-202027'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/widgets/init/assets/js/slick.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/js/frontend-modules.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js'></script>
+<script type='text/javascript'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/iquote.solutions\/wp-admin\/admin-ajax.php","nonce":"0f925a3947","shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""}};
+</script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor-pro/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js'></script>
+<script type='text/javascript'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.11","urls":{"assets":"https:\/\/iquote.solutions\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":5809,"title":"iQuote%20Solutions%20-%20For%20Your%20Business%20%26%20Customers","excerpt":"","featuredImage":false},"user":{"roles":["administrator"]}};
+</script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementor/assets/js/frontend.min.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/widgets/init/assets/js/elementor.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/modules/sticky-content/assets/js/jquery.sticky.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/modules/sticky-content/assets/js/init.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/themes/sassico/assets/js/elementor.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/modules/parallax/assets/js/widget-init.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/modules/parallax/assets/js/section-init.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/metform/controls/assets/js/form-picker-editor.js'></script>
+<script type='text/javascript' src='https://iquote.solutions/wp-content/plugins/elementskit/modules/controls/assets/js/widgetarea-editor.js'></script>
+
+   </body>
+</html>
